@@ -10,7 +10,9 @@
 
 - 🌱 I’m currently learning **DevOps & Cloud Computing**
 
--  Certified Kubernetes Administrator ☸️ and AWS Solutions Architect ☁️
+-  Certified Kubernetes Administrator ☸️
+
+-  Certified AWS Solutions Architect ☁️
   
 - 🔭 Passionate about Cloud Platforms and DevOps
 
