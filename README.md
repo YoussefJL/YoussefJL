@@ -10,6 +10,14 @@
 
 - 🌱 I’m currently learning **DevOps & Cloud Computing**
 
+-  Certified Kubernetes Administrator ☸️ and AWS Solutions Architect ☁️
+  
+- 🔭 Passionate about Cloud Platforms and DevOps
+
+- 💡 Always eager to take on new challenges and embrace cutting-edge technologies
+
+- 👯 Excited to collaborate and contribute meaningfully to the tech community
+
 - 📫 How to reach me **youssef.jouili33@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
