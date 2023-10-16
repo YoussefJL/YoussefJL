@@ -20,6 +20,8 @@
 
 - 👯 Excited to collaborate and contribute meaningfully to the tech community
 
+- ⚡ Fun fact: I use tabs over spaces
+
 - 📫 How to reach me **youssef.jouili33@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
